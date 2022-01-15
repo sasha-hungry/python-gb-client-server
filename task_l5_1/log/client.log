@@ -1,0 +1,28 @@
+2022-01-15 23:02:21,721 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:02:21,722 ERROR config_client_log.py Ошибка
+2022-01-15 23:02:21,722 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:02:21,722 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:02:39,110 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:02:39,110 ERROR config_client_log.py Ошибка
+2022-01-15 23:02:39,110 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:02:39,110 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:05:16,985 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:05:16,985 ERROR config_client_log.py Ошибка
+2022-01-15 23:05:16,985 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:05:16,986 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:30:06,891 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:30:06,891 ERROR config_client_log.py Ошибка
+2022-01-15 23:30:06,891 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:30:06,891 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:32:33,835 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:32:33,835 ERROR config_client_log.py Ошибка
+2022-01-15 23:32:33,835 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:32:33,836 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:34:51,222 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:34:51,223 ERROR config_client_log.py Ошибка
+2022-01-15 23:34:51,224 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:34:51,224 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:35:04,980 DEBUG client.py сгенерирован запрос
+2022-01-15 23:36:13,752 DEBUG client.py сгенерирован запрос PRESENCE для username Guest
+2022-01-15 23:36:32,984 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-15 23:37:10,299 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
