@@ -1,0 +1,20 @@
+2022-01-16 15:25:56,115 CRITICAL config_server_log.py Критическая ошибка
+2022-01-16 15:25:56,116 ERROR config_server_log.py Ошибка
+2022-01-16 15:25:56,116 DEBUG config_server_log.py Отладочная информация
+2022-01-16 15:25:56,116 INFO config_server_log.py Информационное сообщение
+2022-01-16 15:26:16,177 CRITICAL config_server_log.py Критическая ошибка
+2022-01-16 15:26:16,178 ERROR config_server_log.py Ошибка
+2022-01-16 15:26:16,178 DEBUG config_server_log.py Отладочная информация
+2022-01-16 15:26:16,178 INFO config_server_log.py Информационное сообщение
+2022-01-16 15:41:56,881 CRITICAL config_server_log.py Критическая ошибка
+2022-01-16 15:41:56,881 ERROR config_server_log.py Ошибка
+2022-01-16 15:41:56,882 DEBUG config_server_log.py Отладочная информация
+2022-01-16 15:41:56,883 INFO config_server_log.py Информационное сообщение
+2022-01-16 15:42:30,885 DEBUG server.py разбор сообщения от клиента
+2022-01-16 15:42:30,885 DEBUG server.py сформирован ответ 200:OK
+2022-01-16 15:48:32,975 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:48:38,154 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:48:53,274 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642337333.2743943, 'user': {'account_name': 'Guest'}}
+2022-01-16 15:48:53,274 DEBUG server.py разбор сообщения от клиента
+2022-01-16 15:48:53,275 DEBUG server.py сформирован ответ 200:OK
+2022-01-16 15:48:53,275 DEBUG server.py отправлен ответ клиенту {'response': 200}

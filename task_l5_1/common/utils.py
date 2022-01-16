@@ -2,7 +2,13 @@
 
 import json
 import sys
+sys.path.append('../')
+import logging
+import log.config_client_log
 from common.variables import MAX_PACKAGE_LENGTH, ENCODING, DEFAULT_PORT
+
+client_logger = logging.getLogger('client')
+
 
 def get_address_port():
     '''
@@ -18,8 +24,11 @@ def get_address_port():
         else:
             port = DEFAULT_PORT
         if port < 1024 or port > 65535:
+            client_logger.error(f'не верный номер порта')
             raise ValueError
+            
     except IndexError:
+        client_logger.info(f'не указан обязательный параметр после -p')
         print('После параметра -\'p\' необходимо указать номер порта.')
         sys.exit(1)
     except ValueError:

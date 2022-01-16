@@ -39,8 +39,11 @@ def process_ans(message):
     '''
     if RESPONSE in message:
         if message[RESPONSE] == 200:
+            client_logger.debug(f'получен ответ {message[RESPONSE]}')
             return '200 : OK'
+        client_logger.debug(f'получен ответ 400 : {message[ERROR]}')
         return f'400 : {message[ERROR]}'
+    client_logger.debug(f'ответ не получен, генерация ValueError')
     raise ValueError
 
 
@@ -52,15 +55,19 @@ def main():
     address_port = get_address_port()
     server_address = address_port[0]
     server_port = address_port[1]
+    client_logger.info(f'параметры подключения ip address сервера {server_address}, tcp порт сервера {server_port}')
 
     transport = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     transport.connect((server_address, server_port))
     message_to_server = create_presence()
     send_message(transport, message_to_server)
+    client_logger.debug(f'отправлено сообщение {message_to_server} в сторону сервера')
     try:
         answer = process_ans(get_message(transport))
+        client_logger.debug(f'получен и декодирован ответ от сервера')
         print(answer)
     except (ValueError, json.JSONDecodeError):
+        client_logger.error(f'не удалось декодировать сообщение с сервера')
         print('Не удалось декодировать сообщение сервера.')
 
 

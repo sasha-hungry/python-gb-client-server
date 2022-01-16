@@ -26,3 +26,55 @@
 2022-01-15 23:36:13,752 DEBUG client.py сгенерирован запрос PRESENCE для username Guest
 2022-01-15 23:36:32,984 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
 2022-01-15 23:37:10,299 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:21:24,512 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:21:24,514 DEBUG client.py получен ответ 200
+2022-01-16 11:26:25,187 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 11:26:25,188 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:26:25,189 DEBUG client.py получен ответ 200
+2022-01-16 11:33:11,666 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 11:33:11,668 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:33:11,669 DEBUG client.py получен ответ 200
+2022-01-16 11:33:11,669 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 14:54:55,994 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 14:54:55,995 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 14:54:55,995 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642334095.9952843, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 14:54:55,996 DEBUG client.py получен ответ 200
+2022-01-16 14:54:55,996 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 14:55:52,873 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 14:55:52,873 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 14:55:52,873 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642334152.8735673, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 14:55:52,874 DEBUG client.py получен ответ 200
+2022-01-16 14:55:52,874 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:04:19,640 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:04:19,641 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:04:19,641 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642334659.641223, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:04:19,642 DEBUG client.py получен ответ 200
+2022-01-16 15:04:19,642 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:31:11,376 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:31:11,376 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:31:11,376 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336271.3764014, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:31:11,380 ERROR client.py не удалось декодировать сообщение с сервера
+2022-01-16 15:32:15,532 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:32:39,738 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:32:39,738 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:32:39,738 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336359.73837, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:32:39,741 ERROR client.py не удалось декодировать сообщение с сервера
+2022-01-16 15:34:01,258 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:34:01,258 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:34:01,258 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336441.2585456, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:34:01,261 ERROR client.py не удалось декодировать сообщение с сервера
+2022-01-16 15:36:08,515 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:36:08,516 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:36:08,516 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336568.5163171, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:36:08,517 DEBUG client.py получен ответ 200
+2022-01-16 15:36:08,517 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:42:30,882 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:42:30,884 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:42:30,884 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336950.8839052, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:42:30,885 DEBUG client.py получен ответ 200
+2022-01-16 15:42:30,886 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:48:53,274 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:48:53,274 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:48:53,274 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642337333.2743943, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:48:53,275 DEBUG client.py получен ответ 200
+2022-01-16 15:48:53,276 DEBUG client.py получен и декодирован ответ от сервера
