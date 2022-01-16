@@ -68,7 +68,7 @@ def main():
         print(answer)
     except (ValueError, json.JSONDecodeError):
         client_logger.error(f'не удалось декодировать сообщение с сервера')
-        print('Не удалось декодировать сообщение сервера.')
+        # print('Не удалось декодировать сообщение сервера.')
 
 
 if __name__ == '__main__':

@@ -68,7 +68,7 @@ def main():
             client.close()
         except (ValueError, json.JSONDecodeError):
             server_logger.error('некоректное сообщение от клиента')
-            print('Принято некорретное сообщение от клиента.')
+            # print('Принято некорретное сообщение от клиента.')
             client.close()
 
 
