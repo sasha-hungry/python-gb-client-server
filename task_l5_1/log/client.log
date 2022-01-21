@@ -1,0 +1,90 @@
+2022-01-15 23:02:21,721 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:02:21,722 ERROR config_client_log.py Ошибка
+2022-01-15 23:02:21,722 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:02:21,722 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:02:39,110 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:02:39,110 ERROR config_client_log.py Ошибка
+2022-01-15 23:02:39,110 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:02:39,110 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:05:16,985 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:05:16,985 ERROR config_client_log.py Ошибка
+2022-01-15 23:05:16,985 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:05:16,986 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:30:06,891 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:30:06,891 ERROR config_client_log.py Ошибка
+2022-01-15 23:30:06,891 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:30:06,891 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:32:33,835 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:32:33,835 ERROR config_client_log.py Ошибка
+2022-01-15 23:32:33,835 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:32:33,836 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:34:51,222 CRITICAL config_client_log.py Критическая ошибка
+2022-01-15 23:34:51,223 ERROR config_client_log.py Ошибка
+2022-01-15 23:34:51,224 DEBUG config_client_log.py Отладочная информация
+2022-01-15 23:34:51,224 INFO config_client_log.py Информационное сообщение
+2022-01-15 23:35:04,980 DEBUG client.py сгенерирован запрос
+2022-01-15 23:36:13,752 DEBUG client.py сгенерирован запрос PRESENCE для username Guest
+2022-01-15 23:36:32,984 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-15 23:37:10,299 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:21:24,512 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:21:24,514 DEBUG client.py получен ответ 200
+2022-01-16 11:26:25,187 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 11:26:25,188 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:26:25,189 DEBUG client.py получен ответ 200
+2022-01-16 11:33:11,666 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 11:33:11,668 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 11:33:11,669 DEBUG client.py получен ответ 200
+2022-01-16 11:33:11,669 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 14:54:55,994 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 14:54:55,995 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 14:54:55,995 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642334095.9952843, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 14:54:55,996 DEBUG client.py получен ответ 200
+2022-01-16 14:54:55,996 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 14:55:52,873 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 14:55:52,873 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 14:55:52,873 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642334152.8735673, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 14:55:52,874 DEBUG client.py получен ответ 200
+2022-01-16 14:55:52,874 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:04:19,640 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:04:19,641 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:04:19,641 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642334659.641223, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:04:19,642 DEBUG client.py получен ответ 200
+2022-01-16 15:04:19,642 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:31:11,376 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:31:11,376 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:31:11,376 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336271.3764014, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:31:11,380 ERROR client.py не удалось декодировать сообщение с сервера
+2022-01-16 15:32:15,532 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:32:39,738 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:32:39,738 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:32:39,738 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336359.73837, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:32:39,741 ERROR client.py не удалось декодировать сообщение с сервера
+2022-01-16 15:34:01,258 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:34:01,258 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:34:01,258 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336441.2585456, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:34:01,261 ERROR client.py не удалось декодировать сообщение с сервера
+2022-01-16 15:36:08,515 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:36:08,516 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:36:08,516 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336568.5163171, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:36:08,517 DEBUG client.py получен ответ 200
+2022-01-16 15:36:08,517 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:42:30,882 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:42:30,884 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:42:30,884 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642336950.8839052, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:42:30,885 DEBUG client.py получен ответ 200
+2022-01-16 15:42:30,886 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:48:53,274 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:48:53,274 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:48:53,274 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642337333.2743943, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:48:53,275 DEBUG client.py получен ответ 200
+2022-01-16 15:48:53,276 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:57:15,615 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:57:15,617 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:57:15,619 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642337835.6173797, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:57:15,619 DEBUG client.py получен ответ 200
+2022-01-16 15:57:15,620 DEBUG client.py получен и декодирован ответ от сервера
+2022-01-16 15:58:38,612 INFO client.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:58:38,613 DEBUG client.py сгенерирован запрос PRESENCE для username: Guest
+2022-01-16 15:58:38,614 DEBUG client.py отправлено сообщение {'action': 'presence', 'time': 1642337918.6133013, 'user': {'account_name': 'Guest'}} в сторону сервера
+2022-01-16 15:58:38,616 DEBUG client.py получен ответ 200
+2022-01-16 15:58:38,616 DEBUG client.py получен и декодирован ответ от сервера
