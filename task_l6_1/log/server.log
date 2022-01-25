@@ -1,0 +1,53 @@
+2022-01-16 15:25:56,115 CRITICAL config_server_log.py Критическая ошибка
+2022-01-16 15:25:56,116 ERROR config_server_log.py Ошибка
+2022-01-16 15:25:56,116 DEBUG config_server_log.py Отладочная информация
+2022-01-16 15:25:56,116 INFO config_server_log.py Информационное сообщение
+2022-01-16 15:26:16,177 CRITICAL config_server_log.py Критическая ошибка
+2022-01-16 15:26:16,178 ERROR config_server_log.py Ошибка
+2022-01-16 15:26:16,178 DEBUG config_server_log.py Отладочная информация
+2022-01-16 15:26:16,178 INFO config_server_log.py Информационное сообщение
+2022-01-16 15:41:56,881 CRITICAL config_server_log.py Критическая ошибка
+2022-01-16 15:41:56,881 ERROR config_server_log.py Ошибка
+2022-01-16 15:41:56,882 DEBUG config_server_log.py Отладочная информация
+2022-01-16 15:41:56,883 INFO config_server_log.py Информационное сообщение
+2022-01-16 15:42:30,885 DEBUG server.py разбор сообщения от клиента
+2022-01-16 15:42:30,885 DEBUG server.py сформирован ответ 200:OK
+2022-01-16 15:48:32,975 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:48:38,154 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:48:53,274 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642337333.2743943, 'user': {'account_name': 'Guest'}}
+2022-01-16 15:48:53,274 DEBUG server.py разбор сообщения от клиента
+2022-01-16 15:48:53,275 DEBUG server.py сформирован ответ 200:OK
+2022-01-16 15:48:53,275 DEBUG server.py отправлен ответ клиенту {'response': 200}
+2022-01-16 15:57:15,618 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642337835.6173797, 'user': {'account_name': 'Guest'}}
+2022-01-16 15:57:15,618 DEBUG server.py разбор сообщения от клиента
+2022-01-16 15:57:15,618 DEBUG server.py сформирован ответ 200:OK
+2022-01-16 15:57:15,619 DEBUG server.py отправлен ответ клиенту {'response': 200}
+2022-01-16 15:58:17,388 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-16 15:58:38,614 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642337918.6133013, 'user': {'account_name': 'Guest'}}
+2022-01-16 15:58:38,615 DEBUG server.py разбор сообщения от клиента
+2022-01-16 15:58:38,615 DEBUG server.py сформирован ответ 200:OK
+2022-01-16 15:58:38,616 DEBUG server.py отправлен ответ клиенту {'response': 200}
+2022-01-21 21:27:06,992 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-21 21:27:14,136 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-21 21:35:53,218 ERROR server.py некоректное сообщение от клиента
+2022-01-21 21:36:15,622 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642790175.6147668, 'user': {'account_name': 'Guest'}}
+2022-01-21 21:36:15,622 DEBUG server.py разбор сообщения от клиента
+2022-01-21 21:36:15,622 DEBUG server.py сформирован ответ 200:OK
+2022-01-21 21:36:15,622 DEBUG server.py отправлен ответ клиенту {'response': 200}
+2022-01-21 21:39:53,249 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642790393.2485812, 'user': {'account_name': 'Guest'}}
+2022-01-21 21:39:53,249 DEBUG server.py разбор сообщения от клиента
+2022-01-21 21:39:53,250 DEBUG server.py сформирован ответ 200:OK
+2022-01-21 21:39:53,250 DEBUG server.py отправлен ответ клиенту {'response': 200}
+2022-01-21 21:42:46,681 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642790566.6803517, 'user': {'account_name': 'Guest'}}
+2022-01-21 21:42:46,681 DEBUG server.py разбор сообщения от клиента
+2022-01-21 21:42:46,681 DEBUG server.py сформирован ответ 200:OK
+2022-01-21 21:42:46,681 DEBUG server.py отправлен ответ клиенту {'response': 200}
+2022-01-21 21:46:57,329 DEBUG decos.py Была вызвана функция get_address_port c параметрами (), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2022-01-21 21:46:57,329 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-21 21:47:02,066 DEBUG decos.py Была вызвана функция get_address_port c параметрами (), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2022-01-21 21:47:02,067 INFO server.py параметры подключения ip address сервера , tcp порт сервера 7777
+2022-01-21 21:47:15,543 DEBUG server.py получено сообщение от клиента {'action': 'presence', 'time': 1642790835.5423408, 'user': {'account_name': 'Guest'}}
+2022-01-21 21:47:15,543 DEBUG server.py разбор сообщения от клиента
+2022-01-21 21:47:15,543 DEBUG server.py сформирован ответ 200:OK
+2022-01-21 21:47:15,544 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1642790835.5423408, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2022-01-21 21:47:15,544 DEBUG server.py отправлен ответ клиенту {'response': 200}
